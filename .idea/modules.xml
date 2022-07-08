@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Recovery/AArrays/AArrays.iml" filepath="$PROJECT_DIR$/Recovery/AArrays/AArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recovery/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Recovery/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recovery/Arrays verketten/Arrays verketten.iml" filepath="$PROJECT_DIR$/Recovery/Arrays verketten/Arrays verketten.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recovery/Exceptions/Exceptions.iml" filepath="$PROJECT_DIR$/Recovery/Exceptions/Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recovery/Kino/Kino.iml" filepath="$PROJECT_DIR$/Recovery/Kino/Kino.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recovery/Klasse Punkt und TestPunkt/Klasse Punkt und TestPunkt.iml" filepath="$PROJECT_DIR$/Recovery/Klasse Punkt und TestPunkt/Klasse Punkt und TestPunkt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recovery/Klausur mögliche Antworten/Klausur mögliche Antworten.iml" filepath="$PROJECT_DIR$/Recovery/Klausur mögliche Antworten/Klausur mögliche Antworten.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recovery/Quadrat/Quadrat.iml" filepath="$PROJECT_DIR$/Recovery/Quadrat/Quadrat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recovery/Recovery/Recovery.iml" filepath="$PROJECT_DIR$/Recovery/Recovery/Recovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recovery/Tennisspielerin/Tennisspielerin.iml" filepath="$PROJECT_DIR$/Recovery/Tennisspielerin/Tennisspielerin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recovery/Tennisspielerin/TennisspielerinReinardus/TennisspielerinReinardus.iml" filepath="$PROJECT_DIR$/Recovery/Tennisspielerin/TennisspielerinReinardus/TennisspielerinReinardus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recovery/U_11/U_11.iml" filepath="$PROJECT_DIR$/Recovery/U_11/U_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recovery/Ubung 7 Punkte/Ubung 7 Punkte.iml" filepath="$PROJECT_DIR$/Recovery/Ubung 7 Punkte/Ubung 7 Punkte.iml" />
+    </modules>
+  </component>
+</project>
