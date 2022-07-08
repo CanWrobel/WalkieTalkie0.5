@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AArrays/AArrays.iml" filepath="$PROJECT_DIR$/AArrays/AArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays verketten/Arrays verketten.iml" filepath="$PROJECT_DIR$/Arrays verketten/Arrays verketten.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exceptions/Exceptions.iml" filepath="$PROJECT_DIR$/Exceptions/Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaIstEinKontinent.iml" filepath="$PROJECT_DIR$/JavaIstEinKontinent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kino/Kino.iml" filepath="$PROJECT_DIR$/Kino/Kino.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Klausur mögliche Antworten/Klausur mögliche Antworten.iml" filepath="$PROJECT_DIR$/Klausur mögliche Antworten/Klausur mögliche Antworten.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Klasse Punkt und TestPunkt/Punkt.iml" filepath="$PROJECT_DIR$/Klasse Punkt und TestPunkt/Punkt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quadrat/Quadrat.iml" filepath="$PROJECT_DIR$/Quadrat/Quadrat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tennisspielerin/Tennisspielerin.iml" filepath="$PROJECT_DIR$/Tennisspielerin/Tennisspielerin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tennisspielerin/TennisspielerinReinardus/TennisspielerinReinardusKollege.iml" filepath="$PROJECT_DIR$/Tennisspielerin/TennisspielerinReinardus/TennisspielerinReinardusKollege.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tennisspielerin/TennisspielerinReinardusKomilitone.iml" filepath="$PROJECT_DIR$/Tennisspielerin/TennisspielerinReinardusKomilitone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/U_11/U_11.iml" filepath="$PROJECT_DIR$/U_11/U_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ubung 7 Punkte/Ubung 7 Punkte.iml" filepath="$PROJECT_DIR$/Ubung 7 Punkte/Ubung 7 Punkte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recovery/rECOVERY.iml" filepath="$PROJECT_DIR$/Recovery/rECOVERY.iml" />
+    </modules>
+  </component>
+</project>
