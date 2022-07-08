@@ -29,6 +29,11 @@ public class ArraySortierung {
         System.out.println("]");
     }
     public static int[] bubblesortRek(int[] array, int laenge){
+        System.out.print("Reingeschmissen: [ ");
+        for (int j : array) {
+            System.out.print(j + " ");
+        }
+        System.out.println("]");
         if(laenge == 1) return array;
         int temp;
         for(int i = 0; i < laenge-1; i++){
@@ -38,6 +43,11 @@ public class ArraySortierung {
                array[i+1] = temp;
            }
         }
+        System.out.print("[ ");
+        for (int j : array) {
+            System.out.print(j + " ");
+        }
+        System.out.println("] hinaus");
         return bubblesortRek(array, laenge-1);
     }
     public static int[] selektionSortierIter(int[] array){
